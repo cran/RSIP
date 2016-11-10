@@ -1,0 +1,9 @@
+Lon	Lat	Name
+-76.283611	-11.200278	Carhuayacan
+-75.965556	-11.576111	La_Oroya
+-75.287778	-11.880833	Ingenio
+-75.338889	-12.033611	Huayao
+-75.431944	-12.125	San_Juan_de_Jarpa
+-75.234167	-12.1625	Viques
+-75.237222	-12.542222	Huancalpi
+-74.991807	-12.781048	Huancavelica
